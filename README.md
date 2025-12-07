@@ -3,10 +3,10 @@
 
 Current functionality looks like this(the keys are in a 3x3 grid with a centered bottom key):
 
-PREV SONG // NEXT SONG // PLAY-PAUSE
-VOL UP    // VOL DOWN  // MUTE
-REWIND    // FAST FWD  // FILES
-          // LOCK PC   //
+PREV SONG // NEXT SONG // PLAY-PAUSE <br>
+VOL UP    // VOL DOWN  // MUTE <br>
+REWIND    // FAST FWD  // FILES <br>
+          // LOCK PC   // <br>
 
 **Finished product 3D model (Blender):**  
 <img src="https://i.imgur.com/kTRcSuz.png" alt="Finished 3D model" width="350">
