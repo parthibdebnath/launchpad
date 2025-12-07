@@ -1,5 +1,5 @@
 # launchpad
-10-key Macropad with custom PCB, case, and firmware! Two Neopixel LEDs are part of the PCB as well as a XIAO RP2040 MCU. Can be used as a numpad, function keys, or custom actions. PCB designed in KiCad, case if Fusion and Blender, and KMK firmware.
+10-key Macropad with custom PCB, case, and firmware! Two Neopixel LEDs are part of the PCB as well as a XIAO RP2040 MCU. Can be used as a numpad, function keys, or custom actions. PCB designed in KiCad, case in Fusion and Blender, and KMK firmware.
 
 Current functionality looks like this(the keys are in a 3x3 grid with a centered bottom key):
 
