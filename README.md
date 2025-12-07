@@ -26,16 +26,17 @@ Current functionality looks like this:
 
 
 **Finished product 3D model (Blender):**  
-![](https://i.imgur.com/kTRcSuz.png)
+<img src="https://i.imgur.com/kTRcSuz.png" alt="Finished 3D model" width="300">
 
 **Case (Fusion):**  
-![](https://i.imgur.com/BPwAV5U.png)
+<img src="https://i.imgur.com/BPwAV5U.png" alt="Fusion case" width="300">
 
 **PCB (KiCad):**  
-![](https://i.imgur.com/dgNuT7z.png)
+<img src="https://i.imgur.com/dgNuT7z.png" alt="PCB" width="300">
 
 **Schematic (KiCad):**  
-![](https://i.imgur.com/b9tqG0N.png)
+<img src="https://i.imgur.com/b9tqG0N.png" alt="Schematic" width="300">
+
 
 **BOM:**
 - 1× Seeed XIAO RP2040  
