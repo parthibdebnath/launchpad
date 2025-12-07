@@ -24,22 +24,24 @@ Current functionality looks like this:
            │          │
            └──────────┴
 
-**Finished product 3d model (Blender):**
+
+**Finished product 3D model (Blender):**  
 ![](https://i.imgur.com/kTRcSuz.png)
 
-**Case (Fusion):**
+**Case (Fusion):**  
 ![](https://i.imgur.com/BPwAV5U.png)
 
-**PCB (KiCad):**
+**PCB (KiCad):**  
 ![](https://i.imgur.com/dgNuT7z.png)
 
-**Schematic (KiCad)**
+**Schematic (KiCad):**  
 ![](https://i.imgur.com/b9tqG0N.png)
 
 **BOM:**
-- 1x Seeed XIAO RP2040
-- 10x Cherry MX Switches
-- 10x Blank DSA Keycaps (White)
-- 2x SK6812 MINI-E LEDs
-- 4x M3x5mx4mm heatset inserts
-- 4x M3x16mm screws
+- 1× Seeed XIAO RP2040  
+- 10× Cherry MX Switches  
+- 10× Blank DSA Keycaps (White)  
+- 2× SK6812 MINI-E LEDs  
+- 4× M3×5mm×4mm heatset inserts  
+- 4× M3×16mm screws
+
