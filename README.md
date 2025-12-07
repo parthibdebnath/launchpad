@@ -30,8 +30,10 @@ Current functionality looks like this:
 **Case (Fusion):**
 ![](https://i.imgur.com/BPwAV5U.png)
 
-**PCB+Schematic (KiCad):**
+**PCB (KiCad):**
 ![](https://i.imgur.com/dgNuT7z.png)
+
+**Schematic (KiCad)**
 ![](https://i.imgur.com/b9tqG0N.png)
 
 **BOM:**
